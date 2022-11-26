@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+
+*{
+    border: 1px solid blue;
+}
+
+p {
+    color:blue;
+    font-size: 1em;
+}
+
+h1 {
+    color:cornflowerblue;
+}
+
+.main-list li {
+    color: dodgerblue;
+}
+
+a:hover{
+    color: mediumblue;
+}
+
+
+
+#writter {
+    color:royalblue;
+    text-align: right;
+}
+
+#날자 {
+    color: royalblue;
+    text-align: right;
+}
